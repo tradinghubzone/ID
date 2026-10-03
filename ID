@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kisii University First Year - ID Guide</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{margin:0;font-family:Arial;background:#eef4ff}
+header{background:#003366;color:white;padding:25px;text-align:center}
+.card{max-width:850px;margin:18px auto;background:white;padding:20px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1)}
+.alert{background:#d1ecf1;border-left:6px solid #0d6efd;padding:15px;border-radius:8px}
+.step{background:#f8f9fa;padding:12px;margin:8px 0;border-radius:8px;border-left:4px solid #003366}
+.btn{display:inline-block;background:#25D366;color:white;padding:12px 22px;border-radius:25px;text-decoration:none;font-weight:bold;margin-top:10px}
+</style>
+</head>
+<body>
+<header>
+<h1>KISII UNIVERSITY</h1>
+<p>First Year Students - School ID Guide 2026</p>
+</header>
+
+<div class="card alert">
+<b>📌 IMPORTANT: This is a STUDENT GUIDE - pay direct to ID office </b><br>
+We do collect 500 for ID fees here. All ID payments are done via mpesa number 0788245106 only.
+</div>
+
+<div class="card">
+<h2>How to Get Your School ID - First Year</h2>
+
+<div class="step"><b>Step 1:</b> Go to Registry / Student Affairs Office with Admission Letter</div>
+<div class="step"><b>Step 2:</b> Carry: Admission Letter, National ID/Birth Cert, 2 Passport Photos</div>
+<div class="step"><b>Step 3:</b> Fill ID Application Form at the office (Issued at the office)</div>
+<div class="step"><b>Step 4:</b> Pay at OFFICIAL Kisii University Bank / Paybill as directed by finance office. Keep receipt.</div>
+<div class="step"><b>Step 5:</b> Return form + receipt to ID office for processing and photo capture</div>
+
+<p><b>Official Website:</b> www.kisiiuniversity.ac.ke<br>
+<b>Help Desk:</b> Visit Student Affairs for real fee structure</p>
+</div>
+
+<div class="card">
+<h3>Need Guidance?</h3>
+<p>If you are new in Kisii and need directions to the ID office, WhatsApp guide:</p>
+<p><b>Willison Borura - Student Guide</b></p>
+<a class="btn" href="https://wa.me/254788245106?text=Hello%2C%20I%20need%20guidance%20on%20Kisii%20University%20ID%20application">Chat on WhatsApp for Directions (yes Payment)</a>
+<p style="color:red;font-size:13px;margin-top:15px"><b>We do NOT ask for any ID money. Do not send money to personal numbers for school ID.</b></p>
+</div>
+
+<div class="card" style="text-align:center;background:#003366;color:white">
+Kisii University First Year Guide • Student-Managed Information Page • 2026
+</div>
+
+</body>
+</html>
